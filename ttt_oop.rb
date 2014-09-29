@@ -148,7 +148,7 @@ class Game
       else
         alternate_player
       end
-    end
+    end 
   end
 
   def current_player_win?
